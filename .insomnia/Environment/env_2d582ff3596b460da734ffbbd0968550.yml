@@ -1,0 +1,14 @@
+_id: env_2d582ff3596b460da734ffbbd0968550
+type: Environment
+parentId: env_ad255b81921148994133d63714c920138a5c6e48
+modified: 1621947960714
+created: 1621947928611
+name: Prod
+data:
+  base_url: http://localhost:8000/api
+dataPropertyOrder:
+  "&":
+    - base_url
+color: "#67cb88"
+isPrivate: false
+metaSortKey: 1621947928611
