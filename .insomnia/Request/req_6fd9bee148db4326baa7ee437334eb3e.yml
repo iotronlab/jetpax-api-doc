@@ -1,14 +1,24 @@
 _id: req_6fd9bee148db4326baa7ee437334eb3e
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1622399744371
+modified: 1622465824630
 created: 1622399736187
 url: "{{ _.base_url }}/creator"
 name: Creator Get All
 description: ""
 method: GET
 body: {}
-parameters: []
+parameters:
+  - name: categories
+    value: dfdf
+    description: ""
+    id: pair_553264f320074d2d874707b7fb720cc3
+    disabled: true
+  - name: ""
+    value: ""
+    description: ""
+    id: pair_b6d6040b657a4f12bb0e7f05fd64df9c
+    disabled: true
 headers: []
 authentication: {}
 metaSortKey: -1618850100551
