@@ -1,0 +1,21 @@
+_id: req_6fd9bee148db4326baa7ee437334eb3e
+type: Request
+parentId: fld_b9954a7dc80042769847eaba711d0ef9
+modified: 1622399744371
+created: 1622399736187
+url: "{{ _.base_url }}/creator"
+name: Creator Get All
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1618850100551
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
