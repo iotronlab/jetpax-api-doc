@@ -1,23 +1,35 @@
 _id: req_6fd9bee148db4326baa7ee437334eb3e
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1622465824630
+modified: 1622473860808
 created: 1622399736187
-url: "{{ _.base_url }}/creator"
+url: "{{ _.base_url }}/creators"
 name: Creator Get All
 description: ""
 method: GET
 body: {}
 parameters:
   - name: categories
-    value: dfdf
+    value: Entertainment
     description: ""
     id: pair_553264f320074d2d874707b7fb720cc3
     disabled: true
-  - name: ""
-    value: ""
+    type: text
+    multiline: false
+  - name: languages
+    value: hindi
     description: ""
     id: pair_b6d6040b657a4f12bb0e7f05fd64df9c
+    disabled: true
+  - name: followers
+    value: "100"
+    description: ""
+    id: pair_522859865e8e4b0ba3f949e59cb82f11
+    disabled: true
+  - name: socials
+    value: Facebook
+    description: ""
+    id: pair_44af52a0e3c64521903431687769a7f4
     disabled: true
 headers: []
 authentication: {}
