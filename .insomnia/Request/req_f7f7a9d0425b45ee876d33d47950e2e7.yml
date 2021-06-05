@@ -1,0 +1,21 @@
+_id: req_f7f7a9d0425b45ee876d33d47950e2e7
+type: Request
+parentId: wrk_567dff3921cd4b38b681c388a69d79c5
+modified: 1622466986949
+created: 1622466923859
+url: "{{ _.base_url }}/filter"
+name: Filters
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1622466923859
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,54 @@
+_id: req_7a22159191d24739ac3c4f74b48b1974
+type: Request
+parentId: wrk_567dff3921cd4b38b681c388a69d79c5
+modified: 1622467438848
+created: 1622467287296
+url: "{{ _.base_url }}/creatorform"
+name: Creator Form
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: name
+      value: Rahul
+      description: ""
+      id: pair_6eb84e4282a64b1ab338dcfa4a368418
+    - name: email
+      value: rahul@efgh.com
+      description: ""
+      id: pair_5f3c492eee644fa89c0bc17f0fbbb9df
+    - name: profile_name
+      value: ABCD
+      description: ""
+      id: pair_1b4641d43aa74a66aef49b63281afc35
+    - name: profile_link
+      value: abcd.net
+      description: ""
+      id: pair_b111c3c6f52d4f22a1096abc1bfa1714
+    - name: contact
+      value: "1010101111"
+      description: ""
+      id: pair_a52951a0ab9d4e5889e2b6e843689fc2
+    - name: details
+      value: Designer
+      description: ""
+      id: pair_c27d36e548994c349bd0228e0ee37196
+    - name: location
+      value: Delhi
+      description: ""
+      id: pair_2a3c06bc28f744a68f3ab2e1ed7c3108
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_a2ac9d1e33d8432baf6b931ee264806b
+authentication: {}
+metaSortKey: -1622467287296
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

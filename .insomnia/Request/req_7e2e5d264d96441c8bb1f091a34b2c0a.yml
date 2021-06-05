@@ -1,0 +1,58 @@
+_id: req_7e2e5d264d96441c8bb1f091a34b2c0a
+type: Request
+parentId: wrk_567dff3921cd4b38b681c388a69d79c5
+modified: 1622467265607
+created: 1622467105629
+url: "{{ _.base_url }}/businessform"
+name: "Business Form "
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: name
+      value: Rahul
+      description: ""
+      id: pair_4f792c6c250b403b9686eea85206ac4b
+    - name: email
+      value: rahul@abcd.com
+      description: ""
+      id: pair_cce4782f756b40e6900185d22ce60403
+    - name: business_name
+      value: Compane Ltd.
+      description: ""
+      id: pair_9b06e27049a1408fbdc97f2cedd4b38a
+    - name: business_link
+      value: company.net
+      description: ""
+      id: pair_57ddab8375764b5f8834de106a3264d8
+    - name: contact
+      value: "1115511155"
+      description: ""
+      id: pair_ef08e4ce68924018bdc004236a7bdaa1
+    - name: service
+      value: Designing
+      description: ""
+      id: pair_3ef57dc6528443b79a0e0b22ce8cb259
+    - name: budget
+      value: "10000"
+      description: ""
+      id: pair_f8ad96d4faf74372a3b23814cdac107f
+    - name: details
+      value: Create and make API's
+      description: ""
+      id: pair_4baa6f2783c44dee88c7e017bcaa2717
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_64f02d2f8c96488ca066c34facf8b4ae
+authentication: {}
+metaSortKey: -1622467105674
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
