@@ -1,17 +1,17 @@
-_id: req_ee908030c06b4ca29df22947dad9a86b
+_id: req_1546390abe684a27b98f05f37cebf17f
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1624970644586
-created: 1622214817385
-url: "{{ _.base_url }}/portfolio"
-name: Portfolio Get All
+modified: 1624970638589
+created: 1624970610358
+url: "{{ _.base_url }}/portfolio/1"
+name: Portfolio Show one
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1622214817385
+metaSortKey: -1620532458968
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
