@@ -1,10 +1,10 @@
-_id: req_6fd9bee148db4326baa7ee437334eb3e
+_id: req_5da902274b544202ab07a5f853d7c238
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1624998884824
-created: 1622399736187
-url: "{{ _.base_url }}/creators"
-name: Creator Get All
+modified: 1624999051815
+created: 1624998901543
+url: "{{ _.base_url }}/creators/xVm9KCYeKp"
+name: Creator Show One
 description: ""
 method: GET
 body: {}
@@ -43,7 +43,7 @@ parameters:
     disabled: true
 headers: []
 authentication: {}
-metaSortKey: -1618850100551
+metaSortKey: -1617167742134
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true

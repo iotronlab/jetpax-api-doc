@@ -1,9 +1,9 @@
 _id: req_1546390abe684a27b98f05f37cebf17f
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1624970638589
+modified: 1624998859209
 created: 1624970610358
-url: "{{ _.base_url }}/portfolio/1"
+url: "{{ _.base_url }}/portfolios/1"
 name: Portfolio Show one
 description: ""
 method: GET
