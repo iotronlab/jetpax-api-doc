@@ -1,24 +1,27 @@
 _id: req_ba5016d7ba8c44f1b3702efc9cd7a80c
 type: Request
 parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
-modified: 1626428318847
+modified: 1627913734707
 created: 1626427844515
-url: https://graph.facebook.com/v11.0/17841403423395022
-name: Get inst business disc
+url: https://graph.facebook.com/v3.2/17841403423395022/insights
+name: business insight
 description: ""
 method: GET
 body: {}
 parameters:
-  - id: pair_9a2d453186bb4b71b9b7bed3d4faa477
+  - id: pair_e97677100bcd4b629d9694e3a14c337c
     name: access_token
-    value: EAAOXCvsuC74BANsj4oy6CMZBToECxLmIHRtpZAnd4Bp2UfeU5iecBmuk9pn4vMeKYHMMPiZA53JJP9k6zdrgzaZBRbrbMXtSly6bIiIgsf2rbIxbwQkx8nmNiVZBwpIUZCbTl0BZBft3KHFn0S58vg6J6lXPLZCcYQ5ER0ckQWowIOdu3ICvaXan
+    value: EAAMZCRSPJvCcBAJlfJviXvuFm49dJqoX7R89NV1MLVmQiD38J2ZBkDMhkfLlEtyIM5jAj5ZCVRM8JIhgtjrLG1G1rsjNZArIJrpV3Mcyk0j2GhDgLNRKxRdVpuAYVu4oWdfJZByxm4DxVZB6vMFBSJQgaahkko298FZAUTmdew6mWCZBue6R0hGr2ZB2LZBiGfoDZCrjNTmum8FuzU2sedjCQ9y2tWE0CdwZBhoZD
     description: ""
     disabled: false
-  - id: pair_c3e38f2401d944c9a7271076206f9ce4
-    name: fiel
-    value: ""
+  - id: pair_0d8c8cd2701f41269a79edc37c5a137e
+    name: metric
+    value: impressions,reach,profile_views
     description: ""
-    disabled: true
+  - id: pair_bb5b1b8660344219b18ac298590a80d1
+    name: period
+    value: day
+    description: ""
 headers: []
 authentication: {}
 metaSortKey: -1624401405497.5

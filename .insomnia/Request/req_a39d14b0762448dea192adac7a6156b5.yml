@@ -1,0 +1,29 @@
+_id: req_a39d14b0762448dea192adac7a6156b5
+type: Request
+parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
+modified: 1627913613068
+created: 1627912624208
+url: https://graph.facebook.com/v3.2/17841403423395022
+name: business discovery
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_1779032b033241999485116db05f971b
+    name: access_token
+    value: EAAMZCRSPJvCcBAKPOsvb1vDEhPMheDBiGtZB2woMOAtoTYdzAc5TJRKWkoONh0LZBZAlXtCKlCNRZCTEFzF4rjwvG77BnpTKkZB5TIkGgkPEdzi7rqtsBdewyZBKe6Riir6EByJj2zIiXN0rKdf93eRMWflSZBHZBdl4rC36LRQbeswAlhxh5HUZAT2A2NvSiBmUwMvJpgFcRQwZBerJ55VQS0ZA9bMKZAk8LJ2AZD
+    description: ""
+  - id: pair_ed533bc333284350918c5e05c7daba5c
+    name: fields
+    value: business_discovery.username(dahliadollblack){followers_count,media_count}
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1624498112151.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
