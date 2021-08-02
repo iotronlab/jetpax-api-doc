@@ -1,0 +1,21 @@
+_id: req_2fd43b1b258140088da2d94c81321743
+type: Request
+parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
+modified: 1626424079259
+created: 1625755298650
+url: https://graph.facebook.com/v11.0/me/accounts?access_token=EAAOXCvsuC74BANsj4oy6CMZBToECxLmIHRtpZAnd4Bp2UfeU5iecBmuk9pn4vMeKYHMMPiZA53JJP9k6zdrgzaZBRbrbMXtSly6bIiIgsf2rbIxbwQkx8nmNiVZBwpIUZCbTl0BZBft3KHFn0S58vg6J6lXPLZCcYQ5ER0ckQWowIOdu3ICvaXan
+name: Get fb app data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1625755298650
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

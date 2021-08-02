@@ -1,9 +1,9 @@
 _id: req_5da902274b544202ab07a5f853d7c238
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1624999051815
+modified: 1625730540441
 created: 1624998901543
-url: "{{ _.base_url }}/creators/xVm9KCYeKp"
+url: "{{ _.base_url }}/creators/juliet08"
 name: Creator Show One
 description: ""
 method: GET

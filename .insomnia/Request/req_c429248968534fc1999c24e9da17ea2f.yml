@@ -1,0 +1,21 @@
+_id: req_c429248968534fc1999c24e9da17ea2f
+type: Request
+parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
+modified: 1625759371293
+created: 1625759306374
+url: https://graph.facebook.com/v11.0/102499005439751?fields=instagram_business_account&access_token=EAAOXCvsuC74BAPAVB5yZCy2tVUJLLzZCXAuQ40JZAoZCi8ckm8VT8QlJuwZA7owQZCHdKo2q52FGEunmzVFXmBPqoD3WSRZADMZA11Y6mMtthHtt2CohdX4Hc7YlqtDjn8zKNJU53dTK6BY4WRmdvYWsEwLyCbiCeR5rkFg0pacuLZAhxL8dAXU8dnK2k3p1rBnLwAoZAEZBWV61wZDZD
+name: Get inst app data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1624981645420
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

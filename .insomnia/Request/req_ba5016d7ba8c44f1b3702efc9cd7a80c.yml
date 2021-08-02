@@ -1,0 +1,31 @@
+_id: req_ba5016d7ba8c44f1b3702efc9cd7a80c
+type: Request
+parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
+modified: 1626428318847
+created: 1626427844515
+url: https://graph.facebook.com/v11.0/17841403423395022
+name: Get inst business disc
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_9a2d453186bb4b71b9b7bed3d4faa477
+    name: access_token
+    value: EAAOXCvsuC74BANsj4oy6CMZBToECxLmIHRtpZAnd4Bp2UfeU5iecBmuk9pn4vMeKYHMMPiZA53JJP9k6zdrgzaZBRbrbMXtSly6bIiIgsf2rbIxbwQkx8nmNiVZBwpIUZCbTl0BZBft3KHFn0S58vg6J6lXPLZCcYQ5ER0ckQWowIOdu3ICvaXan
+    description: ""
+    disabled: false
+  - id: pair_c3e38f2401d944c9a7271076206f9ce4
+    name: fiel
+    value: ""
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1624401405497.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
