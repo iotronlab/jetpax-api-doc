@@ -1,25 +1,21 @@
-_id: req_a39d14b0762448dea192adac7a6156b5
+_id: req_8fbd92e34dee427c8cd815b1d81adbd1
 type: Request
 parentId: fld_530915ee55bf45899c2c5245b5b9eaaa
-modified: 1627929479374
-created: 1627912624208
-url: https://graph.facebook.com/v3.2/17841403423395022
-name: business discovery
+modified: 1627929546840
+created: 1627927194740
+url: https://graph.facebook.com/v3.2/17841403423395022/media
+name: My Request
 description: ""
 method: GET
 body: {}
 parameters:
-  - id: pair_1779032b033241999485116db05f971b
+  - id: pair_59ba46ee89184990a2d0f01c2b5566fa
     name: access_token
     value: EAAMZCRSPJvCcBANGhZAsU1a39lAphOrR1EMpvIiVZCg4haHQ9eLcvsrVWlZBPDw6QxMQB4Vu3xZAMeOy2HWEM9t9ktOomY0NR90hpsZAmdPHZBJLmudY3mrlDMVXQTOZChrrZBU4M5WgMaREMfR5HeMZCYrLtGVzhru1O5PPBV6ZBfr5dUjxGWSZA9oZC76VtE5GXFxPbqN0np2FTZAAZDZD
     description: ""
-  - id: pair_ed533bc333284350918c5e05c7daba5c
-    name: fields
-    value: business_discovery.username(twinkle.sharmaa){followers_count,media_count}
-    description: ""
 headers: []
 authentication: {}
-metaSortKey: -1624498112151.25
+metaSortKey: -1624425582160.9375
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
