@@ -1,7 +1,7 @@
 _id: req_7a22159191d24739ac3c4f74b48b1974
 type: Request
 parentId: wrk_567dff3921cd4b38b681c388a69d79c5
-modified: 1622467438848
+modified: 1628353484707
 created: 1622467287296
 url: "{{ _.base_url }}/creatorform"
 name: Creator Form
@@ -11,11 +11,11 @@ body:
   mimeType: multipart/form-data
   params:
     - name: name
-      value: Rahul
+      value: Bishal
       description: ""
       id: pair_6eb84e4282a64b1ab338dcfa4a368418
     - name: email
-      value: rahul@efgh.com
+      value: bishal@efgh.com
       description: ""
       id: pair_5f3c492eee644fa89c0bc17f0fbbb9df
     - name: profile_name

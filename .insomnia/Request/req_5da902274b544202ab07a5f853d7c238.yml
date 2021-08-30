@@ -1,46 +1,14 @@
 _id: req_5da902274b544202ab07a5f853d7c238
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1625730540441
+modified: 1629749699892
 created: 1624998901543
-url: "{{ _.base_url }}/creators/juliet08"
+url: "{{ _.base_url }}/creators/ebert.danielle?_debug"
 name: Creator Show One
 description: ""
 method: GET
 body: {}
-parameters:
-  - name: categories
-    value: Entertainment
-    description: ""
-    id: pair_553264f320074d2d874707b7fb720cc3
-    disabled: true
-    type: text
-    multiline: false
-  - name: languages
-    value: Hindi
-    description: ""
-    id: pair_b6d6040b657a4f12bb0e7f05fd64df9c
-    disabled: true
-  - name: followers
-    value: 30K+ followers
-    description: ""
-    id: pair_522859865e8e4b0ba3f949e59cb82f11
-    disabled: true
-  - name: social
-    value: Facebook
-    description: ""
-    id: pair_44af52a0e3c64521903431687769a7f4
-    disabled: true
-  - name: categories
-    value: Education
-    description: ""
-    id: pair_3c61c963822b4c2a83ec7f9f4ce4ad9d
-    disabled: true
-  - name: budget
-    value: "1000"
-    description: ""
-    id: pair_804d7182281e4006a66d93f94003d065
-    disabled: true
+parameters: []
 headers: []
 authentication: {}
 metaSortKey: -1617167742134

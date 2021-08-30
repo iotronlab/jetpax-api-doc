@@ -1,9 +1,9 @@
 _id: req_6fd9bee148db4326baa7ee437334eb3e
 type: Request
 parentId: fld_b9954a7dc80042769847eaba711d0ef9
-modified: 1624998884824
+modified: 1630085671114
 created: 1622399736187
-url: "{{ _.base_url }}/creators"
+url: "{{ _.base_url }}/creators?_debug"
 name: Creator Get All
 description: ""
 method: GET
@@ -31,8 +31,8 @@ parameters:
     description: ""
     id: pair_44af52a0e3c64521903431687769a7f4
     disabled: true
-  - name: categories
-    value: Education
+  - name: category
+    value: Gaming and Technology
     description: ""
     id: pair_3c61c963822b4c2a83ec7f9f4ce4ad9d
     disabled: true
